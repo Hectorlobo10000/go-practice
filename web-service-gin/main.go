@@ -32,3 +32,4 @@ func getAlbums(c *gin.Context) {
 }
 
 // add simple comment
+// add simple comment
